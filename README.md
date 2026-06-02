@@ -50,7 +50,7 @@ Automatic auth · PoW solving · Session pooling · Tool calling emulation · St
 
 ## 📫 How to reach me
 
-- **Email:** `your.email@example.com` *(replace with actual)*
+- **Email:** `yshengheer@gmail.com`
 - **Discord:** `._yaseen_.`
 - **Instagram:** [@yaseen_shengheer](https://instagram.com/yaseen_shengheer)
 
